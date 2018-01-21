@@ -1,5 +1,5 @@
 # prisoners_dilemma
-Learning Rust using the Iterated Prisoners Dilemma Game
+Learning Rust using the Iterated Prisoners Dilemma Game https://en.wikipedia.org/wiki/Prisoner%27s_dilemma
 
 The Iterated Prisoners Dilemma game pits different strategies against each other in a sequence of trails in order to find out which ones have the best long term viability. Do cooperative strategies win out against cheating ones?
 
